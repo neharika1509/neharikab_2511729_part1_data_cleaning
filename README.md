@@ -180,8 +180,9 @@ All pivot tables are saved in outputs/pivot_summary.xlsx across 6 sheets:
 Screenshots of the data before and after cleaning are saved in the screenshots/ folder:
 
  File - Description 
-
+ 
  raw_data_preview.png - Preview of the original raw dataset 
  cleaned_data_preview.png - Preview of the cleaned dataset 
- pivot_summary_1.png - Screenshot of pivot tables 1 and 2 
- pivot_summary_2.png - Screenshot of pivot tables 3 through 6 
+ pivot_summary_1.png - Screenshot of a pivot table 
+ pivot_summary_2.png - Screenshot of a pivot table
+ 
